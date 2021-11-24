@@ -1,0 +1,35 @@
+{
+  "level": "Graduate",
+  "topics": [
+    [
+      "Engineering",
+      "Aerospace Engineering",
+      "Guidance and Control Systems"
+    ],
+    [
+      "Engineering",
+      "Systems Engineering",
+      "Systems Optimization"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "442742a5-f34c-1b97-76e5-2e8d7f59dc8d"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Principles of Optimal Control",
+  "course_description": "This course studies basic optimization and the principles of optimal control. It considers deterministic and stochastic problems for both discrete and continuous systems. The course covers solution methods including numerical search algorithms, model predictive control, dynamic programming, variational calculus, and approaches based on Pontryagin's maximum principle, and it includes many examples and applications of the theory.\n",
+  "department_numbers": [
+    "16"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "16.323",
+  "learning_resource_types": [
+    "Problem Sets",
+    "Exams",
+    "Lecture Notes",
+    "Programming Assignments"
+  ],
+  "title": "Course Metadata"
+}
